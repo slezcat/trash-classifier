@@ -1,6 +1,6 @@
 # Waste Classification
 
-Image classification with tensorflow keras using [mobilenet_v2](https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4) pretrained model
+Image classification with tensorflow keras using [mobilenet_v3](https://tfhub.dev/google/imagenet/mobilenet_v3_large_100_224/classification/5) pretrained model
 
 ### Classify : 
 
